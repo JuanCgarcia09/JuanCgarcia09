@@ -11,7 +11,7 @@
 
 <div>
  <p>
-Electronic engineer, with strong knowledge in TCP/IP and programming in C#, JavaScript, HTML, SQL, Python and .Net. I've been working on navigation system in autonomous vehicles based on predictive control applying machine learning, deep learning and artificial intelligence (AI).
+Electronic engineer, with strong knowledge in communications and programming in C#, JavaScript, HTML, SQL, Python and .Net. I've been working on navigation system in autonomous vehicles based on predictive control applying machine learning, deep learning and artificial intelligence (AI).
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
