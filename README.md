@@ -1,30 +1,35 @@
-### Hi there 👋
 
-package main
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
 
-import (
-	"fmt"
-)
+### Hi there 👋 I'm [Juan C. Garcia](https://www.linkedin.com/in/juan-camilo-garcia-carrillo-466412239/)
+> Electronic engineer.
 
-type Bio map[string]string
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
 
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
-	}
-}
+<div>
+ <p>
+Electronic engineer, with strong knowledge in TCP/IP and programming in C#, JavaScript, HTML, SQL, Python and .Net. I've been working on navigation system in autonomous vehicles based on predictive control applying machine learning, deep learning and artificial intelligence (AI).
+
+I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+</p>
+</div>
+
+
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+
+<a href="https://www.linkedin.com/in/juan-camilo-garcia-carrillo-466412239/" target="_blank">Linkedin</a>
+
+<a href="Juancamilogarcia0930@gmail.com">Gmail</a>
+</p>
+
+
 
 <!--
 **JuanCgarcia09/JuanCgarcia09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
