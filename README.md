@@ -26,7 +26,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <a href="https://www.linkedin.com/in/juan-camilo-garcia-carrillo-466412239/" target="_blank">Linkedin</a>
 
-<a href="Juancamilogarcia0930@gmail.com">Gmail</a>
+<a href="mailto:Juancamilogarcia0930@gmail.com">Gmail</a>
 </p>
 
 
